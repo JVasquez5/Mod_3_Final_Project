@@ -55,13 +55,13 @@ Finally, to wrap everything up we put our models into a **voting classifier**. W
 
 # Conclusion:
 
-Logistic Regression most successful & interpretable model 
+Logistic Regression most successful & interpretable model.
 
 Accuracy score ~72.94% 
 
 Highest coefficient probabilities: 
-Ethnicity: White, 0.62032
-Country: USA, 0.618778
-Personality Trait: SS & Oscore, 0.614236 & 0.561872 
-Age: 25-35,  0.583794
+* Ethnicity: White, 0.62032
+* Country: USA, 0.618778
+* Personality Trait: SS & Oscore, 0.614236 & 0.561872 
+* Age: 25-35,  0.583794
 
