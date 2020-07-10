@@ -1,6 +1,6 @@
 # Demographics, Personality Traits, and their Relationship Hard Drug Use
 
-## <em>A model to corroberate and anticipate drug use</em>
+## <em>A model to corroborate and anticipate drug use</em>
 
 People are not always forthcoming about their substance abuse problems. This can lead to a myriad of problems, including prescribing drugs to those who have the potential to abuse them, as well as drug users not receiving preventative treatment and thus requiring much more expensive treatment later.
 
@@ -62,3 +62,4 @@ Finally, to wrap everything up we put our models into a **voting classifier**. W
 Using our Logistic Regression model we were able to predict whether a participant was a hard drug user ~72.94 percent of the time, using only demographic information and personality traits.
 
 For future work, we would like to look into other combinations of drugs. As well, we would like to make predictions about the range of time in which users used drugs, rather than just bucketing them into used within the last decade or not.
+
